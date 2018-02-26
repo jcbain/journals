@@ -2,7 +2,7 @@
 ...because keeping track of journal formatting can be difficult.
 
 ## LaTeX templates
-- Nature
+- [Nature](https://ctan.org/tex-archive/macros/latex/contrib/nature/)
 
 ```latex
 \documentclass{nature}
