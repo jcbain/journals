@@ -14,7 +14,7 @@
 In order to add new templates to `LaTex`, add `.tex` and `.cls` files to `/usr/local/texlive/2017/texmf-dist/tex/latex/` directory and `.bst` files to `/usr/local/texlive/2017/texmf-dist/bibtex/bst/`. **Note**: you may have to run `sudo` in order to move these files into these directories.
 
 **Step 2**
-Once the files are in the appropriate locations run 
+Once the files are in the appropriate locations run: 
 
 ```bash
 sudo texhash
