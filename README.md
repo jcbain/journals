@@ -6,7 +6,7 @@
 
 ```latex
 \documentclass{nature}
-\bibliographystyle{naturemage}
+\bibliographystyle{naturemag}
 ```
 
 - [ACM](http://www.latextemplates.com/template/acm-publications)
