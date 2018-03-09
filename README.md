@@ -6,9 +6,19 @@
 
 ```latex
 \documentclass{nature}
+\bibliographystyle{naturemage}
 ```
 
-## Adding LaTex Templates
+- [ACM](http://www.latextemplates.com/template/acm-publications)
+```latex
+\documentclass{acmsmall}
+\bibliographystyle{ACM-Reference-Format-Journals}
+```
+
+## Repository of LaTeX Templates
+[Here](http://www.latextemplates.com/cat/academic-journals)
+
+## Adding LaTeX Templates
 
 **Step 1** 
 In order to add new templates to `LaTex`, add `.tex` and `.cls` files to `/usr/local/texlive/2017/texmf-dist/tex/latex/` directory and `.bst` files to `/usr/local/texlive/2017/texmf-dist/bibtex/bst/`. **Note**: you may have to run `sudo` in order to move these files into these directories.
