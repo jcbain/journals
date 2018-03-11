@@ -35,6 +35,8 @@ This should add these to the `ls-R` file.
 #### Helpful Links
 [Adding `sty` file](https://tex.stackexchange.com/questions/10252/how-do-i-add-a-sty-file-to-my-mactex-texshop-installation)
 
+[Using `pandoc` to convert `.tex` to different file types](https://jabranham.com/blog/2016/11/using-pandoc-export-to-word/)
+
 ## Using LaTeX in Jupyter Lab
 
 Jupyter Lab provides the capability to automatically render `.pdf` documents when editting `.tex` files. [Here](https://github.com/jupyterlab/jupyterlab-latex) is a link to the `jupyterlab_latex` extension.
